@@ -6,7 +6,7 @@ Cuando se menciona objeto complejo, se hace referencia a un objeto con una canti
 
 Antes de ver la implementación del patrón, se explicara detalladamente como son esas "clases" mencionadas y quien las manipula.
 <p align="center"><img src="https://informaticapc.com/patrones-de-diseno/images/builder.jpg"></p>
-La imagen se obtuvo del blog https://informaticapc.com/patrones-de-diseno/builder.php
+La imagen se obtuvo de [2].
 
 Las clases participantes para llevar a cabo el patrón Builder son:
 
@@ -38,7 +38,6 @@ La persona donde podra obtener los objetos complejos creados será en la clase M
  
  2. Podria no ser posible inicializar los atributos de un producto si se crea directamente, ya que el encargado de ello es la clase ConcreteBuilder cuando es llamado desde el director.
  
- ## Referencias
   [1]: https://albertcapdevila.net/patron-builder-csharp-net/
   [2]: https://danielggarcia.wordpress.com/2014/02/19/patrones-de-creacion-ii-patron-builder-constructor/
   [3]: https://informaticapc.com/patrones-de-diseno/
