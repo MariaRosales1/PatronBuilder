@@ -18,6 +18,5 @@ Para implementar el patrón se necesita crear por lo menos cinco clases:
 
 Veamos un diagrama de clase UML, ejemplificando lo mencionado:
 <p align="center"><img src="https://informaticapc.com/patrones-de-diseno/images/builder.jpg"></p>
-
-
+La imagen se obtuvo del blog https://informaticapc.com/patrones-de-diseno/builder.php
 
